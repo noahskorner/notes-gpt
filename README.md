@@ -1,6 +1,6 @@
 # NotesGPT
 
-This repository, NotesGPT, enables you to interact with your notes and journal entries using a language model. Here's how it works:
+This repository enables you to interact with your notes and journal entries using a language model. Here's how it works:
 
 1. **Embedding Documents**:
 
