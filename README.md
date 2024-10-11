@@ -20,8 +20,8 @@ This repository enables you to interact with your notes and journal entries usin
 1. **Clone the repository:**
 
     ```sh
-    git clone noahskorner/notes.new
-    cd notes.new
+    git clone noahskorner/notes-gpt
+    cd notes-gpt
     ```
 
 2. **Set up the virtual environment:**
