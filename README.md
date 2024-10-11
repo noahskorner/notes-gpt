@@ -5,7 +5,7 @@ This repository enables you to interact with your notes and journal entries usin
 1. **Embedding Documents**:
 
     The `embed.py` script reads markdown files from a specified folder and embeds their contents into a Chroma database. This process converts your notes and journal entries into a format that the language model can understand and reference.
-2. **Querying the LLM((:
+2. **Querying the LLM**:
 
     The `prompt.py` script allows you to prompt the language model with queries. When you run this script, it starts an interactive session where you can ask questions or request information.
     The language model uses the embedded documents to provide detailed and contextually relevant responses, effectively allowing you to "chat" with your notes and journal entries.
